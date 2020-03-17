@@ -7,7 +7,7 @@ Nota: la instalación de Jenkins no está terminada, sólo se han instalado los 
 
 1. [Instala VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 1. [Instala vagrant](https://www.vagrantup.com/docs/installation/)
-1. Instala el plugin vagrant-vbguest si no lo tienes instalado ya
+1. Instala el plugin [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) si no lo tienes instalado ya
    ```bash 
    > vagrant plugin install vagrant-vbguest
    ```
